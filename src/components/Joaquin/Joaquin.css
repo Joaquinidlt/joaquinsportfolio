@@ -1,0 +1,77 @@
+.containerP {
+  background-color: #4949492c;
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid #ccc;
+  /* IMPORTANTE */
+  text-align: center;
+}
+.containerJ {
+  color: whitesmoke;
+  text-align: center;
+  margin: 2rem;
+  padding: 2rem;
+  background-color: rgba(71, 71, 71, 0.274);
+  box-shadow: #16202a 2px 4px 6px 0px;
+}
+
+.containerTitleJ {
+  margin-bottom: 15px;
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+  font-size: 2rem;
+  text-decoration: underline;
+}
+
+.containerInfoJ {
+  margin-bottom: 15px;
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+  font-size: 2rem;
+  text-decoration: underline;
+}
+.containerInfoK {
+  margin-bottom: 15px;
+  font-weight: 100;
+  margin: 0, 5rem;
+  padding: 1rem;
+  color: rgb(255, 255, 255);
+  font-size: 1, 5rem;
+}
+.containerInfoGP {
+  margin-bottom: 15px;
+  color: rgb(255, 255, 255);
+  font-size: 1, 5rem;
+}
+.containerInfoTP {
+  margin-bottom: 30px;
+  margin-top: 50px;
+  color: rgb(255, 255, 255);
+  font-size: 3rem;
+  text-decoration: underline;
+}
+.containerInfoTPL {
+  margin-bottom: 50px;
+  margin-top: 10px;
+  color: rgb(255, 255, 255);
+  font-size: 3rem;
+}
+.containerInfoTPLT {
+  margin-bottom: 30px;
+  margin-top: 10px;
+  font-size: 1rem;
+}
+.containerInfoTPLB {
+  margin-bottom: 5px;
+  margin-top: 70px;
+  font-size: 3rem;
+}
+.containerInfoSearch {
+  font-size: 3rem;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+.mobileStyle {
+  display: flex;
+  margin-bottom: 30px;
+}

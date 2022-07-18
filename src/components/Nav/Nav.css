@@ -1,0 +1,48 @@
+#logo {
+  margin-right: 20px;
+}
+.searchNav {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+hr {
+  border-top: none !important;
+}
+.navbar-brand {
+  width: 100%;
+  border-radius: 5px;
+  border-color: white !important;
+}
+.navbar-brand:hover {
+  color: #7a7a7a !important;
+}
+.btn btn-outline-secondary {
+  background-color: black;
+}
+.cityInput {
+  background-color: transparent;
+  border-style: solid;
+  border-color: white;
+  border-radius: 8px;
+  margin: 7px;
+  font-size: 17px;
+  color: #fff;
+}
+.btnSearch {
+  color: #fff;
+  background-color: transparent;
+  border-style: solid;
+  border-color: white;
+  border-radius: 30px;
+  margin-top: 5px;
+  margin-bottom: 6px;
+  margin-right: 10px;
+  font-size: 12px;
+}
+
+.btnSearch:hover {
+  background-color: rgb(180, 180, 180);
+  color: rgb(0, 0, 0);
+}
